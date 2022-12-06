@@ -17,7 +17,7 @@ We have chosen EUPL because we want to protect the community ([see our IPR appro
 - Your contributions are more than welcome.
 - You have no additional obligations contributing to the codebase hosted with EUPL, just as the codebase with any other F/OSS license.
 - All your contributions to any repository hosted with EUPL will be as EUPL.
-- GitHub THCLab namespace is hosted under The Human Colossus Foundation. Therefore the Licensor registered office is outside European Union (Switzerland) and will be governed by Belgian law, as stated in point 15 of the EUPL license.
+- GitHub [THCLab](https://github.com/THCLab) namespace is hosted under [The Human Colossus Foundation](https://humancolossus.foundation/). Therefore the Licensor registered office is outside European Union (Switzerland) and will be governed by Belgian law, as stated in point 15 of the EUPL license.
 
 #### References
 - \[1\]: https://joinup.ec.europa.eu/collection/eupl/solution/eupl-freeopen-source-software-licence-european-union/about
