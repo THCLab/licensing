@@ -5,7 +5,7 @@ We have chosen EUPL because we want to protect the community ([see our IPR appro
 
 ## OK, but can I use it in my codebcase?!
 
-In short, yes. You can consume our work within your codebase, no matter whether it is released as [permissive/protective license](https://en.wikipedia.org/wiki/Software_license), or is proprietary. EUPL does not impose any other regulation onto your codebase.
+In short, yes. You can consume our work within your codebase, no matter whether it is distributed under [permissive/protective license](https://en.wikipedia.org/wiki/Software_license), or is proprietary. EUPL does not impose any other regulation upon you or your codebase.
 
 ## EUPL crucial characteristics in terms of software reusability
 
