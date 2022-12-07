@@ -3,9 +3,13 @@
 EUPL1.2 is a novel license in the industry. Therefore, as a potential consumer of our work, you deserve full transparency of how EUPL works or whether it is an option to consume our work in your codebase. 
 We have chosen EUPL because we want to protect the community ([see our IPR approach](https://hackmd.io/@hcf/H1Og-0yUj)) from exclusive appropriation. 
 
-## OK, but can I use it in my codebcase?!
+## OK, but can I use it in my codebase?!
 
 In short, yes. You can consume our work within your codebase, no matter whether it is distributed under [permissive/protective license](https://en.wikipedia.org/wiki/Software_license), or is proprietary. EUPL does not impose any other regulation upon you or your codebase.
+
+When you consume our codebase or its derivation (i.e., a compiled library) within your codebase, you can:
+- use it (also proprietary) as long as you don't modify it;
+- when you modify it, you must push all modifications back to the community.
 
 ## EUPL crucial characteristics in terms of software reusability
 
