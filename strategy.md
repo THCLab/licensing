@@ -52,6 +52,8 @@ In addition the EUPL is unique for several reasons:
 
 ### FAQ
 
+For more FAQ please check official [EUPL FAQ](https://joinup.ec.europa.eu/collection/eupl/how-use-eupl)[^FAQ]
+
 1. Is EUPL alone compatible with proprietary software?
 	> Yes[^1][^viral], you can use EUPL library in your proprietary application without need to release or share your code. Virality does not exist legally in Europe, even for the GPLv3 or AGPLv3 cause a probelm with questionable usage. Patrice-Emmanuel Schmitz provide[^viral_2] nice summary of that subject, he is a lawyer that participated in drafting EUPL, where he clearly question the legality of "strong" copyleft licenses in Europe.
 2. Does the EUPL close the SaaS/ASP loophole?
@@ -92,3 +94,5 @@ In conclusion, when public administrations are using or distributing their own s
 [^eupl]: https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12
 [^freevs]: https://www.baozi.technology/floss-business-ethics-part-1-definitions-and-context
 [^eupl12]: https://joinup.ec.europa.eu/collection/eupl/news/understanding-eupl-v12
+
+[^FAQ]:https://joinup.ec.europa.eu/collection/eupl/how-use-eupl
