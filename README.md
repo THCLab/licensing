@@ -1,7 +1,7 @@
 # EUPL1.2 license distilled
 
 EUPL1.2 is a novel license in the industry. Therefore, as a potential consumer of our work, you deserve full transparency of how EUPL works or whether it is an option to consume our work in your codebase. 
-We have chosen EUPL because we want to protect the community ([see our IPR approach](https://hackmd.io/@hcf/H1Og-0yUj)) from exclusive appropriation. 
+We have chosen EUPL because we want to protect the community ([see our IPR approach](strategy.md)) from exclusive appropriation. 
 
 ## OK, but can I use it in my codebase?!
 
