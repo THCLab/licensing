@@ -47,7 +47,9 @@ In addition the EUPL is unique for several reasons:
 - The EUPL has considered the specificity and diversity of Member States Law and the Community Law (copyright terminology, information, warranty, liability, applicable law and jurisdiction).
 - The EUPL covers not only the classical software distribution, but also the "communication to the public" through remote access, or the provision of SaaS (software as a service) through the Internet. On this specific point, the EUPL is like the AGPL.
 - The EUPL is not viral: according to the provision of European Law (Directive EC 2009/24 recitals 10 & 15), static and dynamic linking can be implemented with other programs without barriers or conditions. This ensures better legal security compared to licences that are not always operating under European Law.   
-- The EUPL ensures downstream compatibility with the most relevant other reciprocal licences (including the most intensively used, the General Public licence or GPL). Its unique compatibility provisions create a new category of F/OSS licence: "Copyleft compatible" (other are: "Strong copyleft", "Weak copyleft" and "Without copyleft")  
+- The EUPL ensures downstream compatibility with the most relevant other reciprocal licences (including the most intensively used, the General Public licence or GPL). Its unique compatibility provisions create a new category of F/OSS licence: "Copyleft compatible" (other are: "Strong copyleft", "Weak copyleft" and "Without copyleft")
+- The EUPL includes a Developer Certificate of Origin (DCO)
+- The EUPL specifies more "realistic" liability exclusions (total liability exclusions, like in the Apache 2.0 or MIT license are simply invalid in many jurisdictions, e.g. All EU members state).
 
 
 ### FAQ
